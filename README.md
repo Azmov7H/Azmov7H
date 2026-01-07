@@ -1,151 +1,149 @@
 # Ali Nagi (Azmov7H)
 
-Full Stack Web Developer with a strong focus on frontend architecture and dashboard-driven systems.  
-I build real-world web applications with clean UI, scalable structure, and practical business logic.
+Full Stack Web Developer specializing in **frontend architecture**, **dashboard-driven systems**,
+and **production-ready SaaS platforms**.
+
+I focus on building real-world web applications with:
+- Clean and scalable UI architecture
+- Business-oriented logic
+- Maintainable codebases designed for long-term growth
 
 ---
 
-## 🧠 Technical Focus
+## 🧠 Core Expertise
 
-- Building SaaS-style platforms and dashboards
-- Clean and maintainable frontend architecture
-- Business-oriented systems (Inventory, Stores, Admin Panels)
-- Real production use cases, not demo projects
+- SaaS platforms & admin dashboards
+- Frontend architecture (App Router, modular systems)
+- Inventory, store, and business management systems
+- Translating business requirements into scalable UI systems
+- Production-focused development (not demo projects)
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tech Stack
 
 ### Frontend
 - Next.js (App Router)
 - React.js
 - Tailwind CSS
-- JavaScript
-- TypeScript
+- JavaScript / TypeScript
 
 ### Backend & Data
 - Node.js
 - Express.js
 - RESTful APIs
 - Prisma ORM
-- MongoDB / PostgreSQL (depending on project)
+- MongoDB / PostgreSQL
 
-### Deployment & Workflow
+### DevOps & Workflow
 - Git & GitHub
 - Vercel
-- Linux Environment
+- Linux-based development environment
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ---
 
-### 📦 az-store
-**E-commerce Web Application**
+### 📦 az-store  
+**E-Commerce Frontend Application**
 
-An online store frontend with a clean product listing experience and scalable structure suitable for future expansion.
+A clean and scalable storefront focused on product presentation and frontend architecture,
+designed to be extended into a full e-commerce platform.
 
-**Key Highlights**
-- Component-based UI
-- Client-side routing
-- Clean product presentation
+**Highlights**
+- Component-driven UI
+- Scalable folder structure
+- Clean UX for product listing
 
-**Tech Stack**
+**Stack**
 - Next.js
 - React
 - Tailwind CSS
 - JavaScript
-- Vercel
 
-🔗 Repository  
-https://github.com/Azmov7H/az-store
+🔗 https://github.com/Azmov7H/az-store
 
 ---
 
-### 📊 Makhzanko
+### 📊 Makhzanko  
 **Inventory & Business Management SaaS**
 
-A full SaaS-style platform for managing inventory, sales, reports, and dashboards, built with a modern Next.js App Router architecture.
+A production-oriented SaaS platform for inventory, sales, reporting, and dashboards.
+Built using modern Next.js App Router patterns with a strong focus on scalability.
 
-**Key Highlights**
-- Dashboard-based UI
-- Authentication flow
-- Modular and scalable structure
-- Business-focused UX
+**Highlights**
+- Dashboard-first architecture
+- Authentication & protected routes
+- Modular business logic
+- Clean UX for business workflows
 
-**Tech Stack**
+**Stack**
 - Next.js (App Router)
 - React
 - Tailwind CSS
 - TypeScript
 - Prisma ORM
-- Database (MongoDB / PostgreSQL)
-- API Routes
+- MongoDB / PostgreSQL
 
 🔗 Repository  
-https://github.com/Azmov7H/Makhzanko
+https://github.com/Azmov7H/Makhzanko  
 
-🌐 Live Demo  
+🌐 Live  
 https://makhzanko.vercel.app
 
 ---
 
-### 🏭 Jammaz-System
+### 🏭 Jammaz-System  
 **Warehouse & Business Operations System**
 
-A system designed for real operational workflows, including inventory and internal business management, built with a structured full-stack approach.
+A system designed for real operational environments, focusing on inventory and internal business workflows.
 
-**Key Highlights**
-- Business-oriented system design
-- Role-based architecture concept
-- Dashboard-driven workflows
+**Highlights**
+- Business-driven system design
+- Role-based access concept
+- Structured full-stack architecture
 
-**Tech Stack**
+**Stack**
 - Next.js
 - React
 - Tailwind CSS
 - Node.js
 - Express.js
-- REST API
 
-🔗 Repository  
-https://github.com/Azmov7H/Jammaz-System
+🔗 https://github.com/Azmov7H/Jammaz-System
 
 ---
 
-### 🧠 QuantumDesk
-**Scientific Community & Publishing Platform**
+### 🧠 QuantumDesk  
+**Scientific Content & Community Platform**
 
-A platform concept focused on content publishing and community interaction, built with a scalable web architecture.
+A scalable platform concept for scientific publishing and community interaction,
+designed with long-term extensibility in mind.
 
-**Key Highlights**
-- Content-based platform structure
-- Community-oriented design
+**Highlights**
+- Content-centric architecture
+- Community-ready structure
 - Expandable system foundation
 
-**Tech Stack**
+**Stack**
 - Next.js
 - React
 - Tailwind CSS
 - Node.js
 - Express.js
 
-🔗 Repository  
-https://github.com/Azmov7H/QuantumDesk
+🔗 https://github.com/Azmov7H/QuantumDesk
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azmov7H&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azmov7H&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📬 Contact
 
 - GitHub: https://github.com/Azmov7H
-
----
-
-This profile showcases real projects built with production mindset and practical use cases.
