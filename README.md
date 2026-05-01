@@ -1,114 +1,62 @@
-# Ali Nagi (Azmov7H)
+# 👋 Hi, I'm Ali Nagi (Azmov7H)
 
-Full Stack Web Developer with a primary focus on **frontend architecture**, **dashboard systems**,
-and **business-oriented web applications**.
-
-I design and build production-ready systems with clear structure, predictable behavior,
-and maintainable codebases. My work prioritizes real operational needs over experimental or demo-style implementations.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2F+Next.js+Specialist;Building+Modern+Web+Apps;Clean+UI+%2B+Scalable+Architecture" />
+</p>
 
 ---
 
-## Technical Profile
+## 🚀 About Me
 
-- Strong focus on frontend architecture and UI system design
-- Experience building dashboard-driven SaaS platforms
-- Practical understanding of business workflows (inventory, sales, admin systems)
-- Emphasis on scalability, clarity, and long-term maintainability
-- Production mindset with attention to structure and developer experience
-
----
-
-## Technology Stack
-
-### Frontend
-- Next.js (App Router)
-- React
-- Tailwind CSS
-- JavaScript
-- TypeScript
-
-### Backend & Data
-- Node.js
-- Express.js
-- RESTful APIs
-- Prisma ORM
-- MongoDB / PostgreSQL
-
-### Tooling & Environment
-- Git & GitHub
-- Vercel
-- Linux-based development environment
+* 💻 Frontend Developer focused on **modern web applications**
+* 🧠 Passionate about **UI/UX + performance + scalability**
+* ⚡ Building **dashboards, SaaS systems, and business apps**
+* 🔍 Always learning and pushing code quality to the next level
 
 ---
 
-## Selected Work
+## 🧰 Tech Stack
 
-### az-store  
-E-commerce Frontend Application
+### 🎨 Frontend
 
-A structured frontend application focused on product listing and UI scalability.
-Built as a foundation for a complete e-commerce system.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-- Component-driven architecture
-- Clean routing and layout structure
-- Maintainable UI patterns
+### ⚙️ Backend (Basic Knowledge)
 
-Stack: Next.js, React, Tailwind CSS  
-Repository: https://github.com/Azmov7H/az-store
-
----
-
-### Makhzanko  
-Inventory & Business Management SaaS
-
-A full SaaS-style system for inventory, sales, reporting, and administrative workflows.
-Designed with a dashboard-first approach and modular architecture.
-
-- Protected routes and authentication flow
-- Scalable App Router structure
-- Business-focused UX and data flow
-
-Stack: Next.js (App Router), React, Tailwind CSS, TypeScript, Prisma  
-Repository: https://github.com/Azmov7H/Makhzanko  
-Live: https://makhzanko.vercel.app
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ---
 
-### Jammaz-System  
-Warehouse & Internal Operations System
+## 📊 GitHub Stats
 
-A system built to model real warehouse and internal business operations,
-with a focus on structure rather than presentation.
-
-- Operational workflow modeling
-- Role-based access concepts
-- Structured full-stack implementation
-
-Stack: Next.js, React, Tailwind CSS, Node.js, Express  
-Repository: https://github.com/Azmov7H/Jammaz-System
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azmov7H&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azmov7H&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### QuantumDesk  
-Scientific Content & Community Platform (Concept)
+## 🔥 Featured Projects
 
-A scalable platform concept for scientific publishing and community interaction,
-designed with extensibility in mind.
-
-- Content-oriented architecture
-- Modular system foundation
-
-Stack: Next.js, React, Tailwind CSS, Node.js, Express  
-Repository: https://github.com/Azmov7H/QuantumDesk
+* 🛒 E-Commerce Platform (Next.js + API Integration)
+* 🎬 Movie App (Dynamic Data + Clean UI)
+* 📰 News App (Real-time API + Responsive Design)
 
 ---
 
-## GitHub Activity
+## 🌐 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azmov7H&show_icons=true&theme=github_dark)
+<p>
+  <a href="https://github.com/Azmov7H"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <!-- Add LinkedIn / Portfolio here -->
+</p>
 
 ---
 
-## Contact
+## ⚡ Fun Fact
 
-GitHub: https://github.com/Azmov7H
+> I don’t just write code… I build experiences.
